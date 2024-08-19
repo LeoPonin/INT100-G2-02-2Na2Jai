@@ -2,6 +2,8 @@
 # Intruducing OAT-Kung ✨
 _by LeoPonin (Piriya Kiattikul)_
 
+![oat](oa.png)
+
 Name : Peerawit Pratoomsuwan
 
 Nickname : Oat
