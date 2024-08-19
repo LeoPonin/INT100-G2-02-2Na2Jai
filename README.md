@@ -1,5 +1,5 @@
 
-# Intrudecing OAT-Kung
+# Intruducing OAT-Kung ✨
 _by LeoPonin (Piriya Kiattikul)_
 
 Name : Peerawit Pratoomsuwan
