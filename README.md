@@ -1,3 +1,14 @@
-Name and stat collector with roll20 that calculate stat by individualy.
-Turn .py to .exe and it shoukd be fine to use.
-Easy to use i guess ¯\_(ツ)_/¯
+
+# Intrudecing OAT-Kung
+_by LeoPonin (Piriya Kiattikul)_
+Name : Peerawit Pratoomsuwan
+Nickname : Oat
+Age 18 years old
+KMUTT student : Faculty of Information technology
+Status : single
+Personality : Cheerful, fun, hilarious
+Motivation : Life goals
+Goal : Graduate
+Habits : Funny + a little bit trolling 😎
+Anoying thing of myself : Overthink about people's word
+IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
