@@ -28,7 +28,7 @@ Frusration: คิดมากในสิ่งที่ตัวเองท�
 # Intruducing OAT-Kung ✨
 _by LeoPonin (Piriya Kiattikul)_
 
-![oat](oa.png)
+![oat](aot.png)
 
 Name : Peerawit Pratoomsuwan
 
