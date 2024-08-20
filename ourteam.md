@@ -67,4 +67,4 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 สิ่งที่ทำให้หงุดหงิด: ความคิดมากของตนเอง
 [instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==)
-<img src=”img-7812.jpg”
+<img src=”IMG_7812.jpeg”>
