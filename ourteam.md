@@ -20,6 +20,34 @@ Behavior: แคร์คำพูดผู้อื่น ชอบช่วย
 
 Frusration: คิดมากในสิ่งที่ตัวเองทำในแต่ละวันมากเกินไป
 
+
+# Intruducing OAT-Kung ✨
+_by LeoPonin (Piriya Kiattikul)_
+
+![oat](aot.jpg)
+
+Name : Peerawit Pratoomsuwan
+
+Nickname : Oat
+
+Age 18 years old
+
+KMUTT student : Faculty of Information technology
+
+Status : single
+
+Personality : Cheerful, fun, hilarious
+
+Motivation : Life goals
+
+Goal : Graduate
+
+Habits : Funny + a little bit trolling 😎
+
+Anoying thing of myself : Overthink about people's word
+
+IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
+
 สัมภาษณ์โดย ธราเทพ ดวงปาโคตร
 ชื่อเล่น พีค (Peak)
 ชื่อ-สกุล ธนนันท์ ถิรคุณาพันธ์ (Thananan Tirakunapan)
@@ -39,3 +67,4 @@ Frusration: คิดมากในสิ่งที่ตัวเองท�
 
 สิ่งที่ทำให้หงุดหงิด: ความคิดมากของตนเอง
 [instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==)
+<img src=”img-7812.jpg”
