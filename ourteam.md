@@ -66,5 +66,5 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 นิสัย: เป็นคนชอบคิดมากเกินไป
 
 สิ่งที่ทำให้หงุดหงิด: ความคิดมากของตนเอง
-[instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==)
-<img src=”peak.jpg” width= 500 px>
+[instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==) <br>
+<img src="peak.jpg" width= 500 px>
