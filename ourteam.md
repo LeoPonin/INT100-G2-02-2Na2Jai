@@ -74,17 +74,15 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 [instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==) <br>
 <img src="peak.jpg" width= 500 px>
 
-<img src = "imgmax.jpg" width = 500px >
-
 สัมภาษณ์โดย ณพัทร อาดำ <br>
 
-ชื่อเล่น แม็ค(Max) 
-ชื่อ-สกุล ธนกฤต​ แจ็นด์(Thanakrit Jand) 
-อายุ 18 ปี
-อาชีพ นักศึกษา มจธ.
-สถานะ โสด 
-คณะ เทคโนโลยีสารสนเทศ
-สาขา เทคโนโลยีสารสนเทศ 
+ชื่อเล่น แม็ค(Max) <br>
+ชื่อ-สกุล ธนกฤต​ แจ็นด์(Thanakrit Jand) <br>
+อายุ 18 ปี <br>
+อาชีพ นักศึกษา มจธ. <br>
+สถานะ โสด <br>
+คณะ เทคโนโลยีสารสนเทศ <br>
+สาขา เทคโนโลยีสารสนเทศ <br>
 
 บุคลิกภาพ: เป้นคนไปเรื่อย​ ถ้ารู้จักก้จะชวนคุยตลอด​ และเป้นคนที่เฮฮาสุด
 
@@ -96,5 +94,8 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 สิ่งที่ทำให้หงุดหงิด: ไม่ชอบคนที่ไม่พูดตรงๆ​ทำให้คิดมาก​
 
+IG: [thxnakrxt.jx___] (https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M3hjbGxrMjg2)
+
+<img src = "imgmax.jpg" width = 500px >
 
 
