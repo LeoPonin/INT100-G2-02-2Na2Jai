@@ -74,6 +74,7 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 [instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==) <br>
 <img src="peak.jpg" width= 500 px>
 
+
 สัมภาษณ์โดย ณพัทร อาดำ <br>
 
 ชื่อเล่น แม็ค(Max) <br>
@@ -99,6 +100,7 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 <img src = "imgmax.jpg" width = 500px >
 
 
+
 สัมภาษณ์โดย oat <br>
 ชื่อเล่น มีมี่ (Memie) <br>
 ชื่อ-สกุล พิริยา เกียรติกุล (Piriya Kiattikul) <br>
@@ -118,7 +120,9 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 สิ่งที่ทำให้หงุดหงิด: เวลาพูดอะไรออกไปแล้วบางทีชอบกลับมานั่งคิดว่าคนอื่นจะคิดยังไงทั้งๆที่มันไม่มีอะไรให้กังวลเลย <br>
 
+
 Motto: Don't wait until it's too late. <br>
+
 [instagram](https://www.instagram.com/livuniverse?igsh=cHNjMHBpZmFuNjF5) <br>
 <img src = "image.jpg" width = 500px >
 
