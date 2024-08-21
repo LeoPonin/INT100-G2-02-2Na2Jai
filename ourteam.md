@@ -20,6 +20,10 @@ Behavior: แคร์คำพูดผู้อื่น ชอบช่วย
 
 Frusration: คิดมากในสิ่งที่ตัวเองทำในแต่ละวันมากเกินไป
 
+IG : [napatadam](https://www.instagram.com/napatadam?igsh=MWVwdnY2Z3hpdHo3bQ==)
+
+interview by ธนกฤต แจ็นด์
+
 
 # Intruducing OAT-Kung ✨
 _by LeoPonin (Piriya Kiattikul)_
