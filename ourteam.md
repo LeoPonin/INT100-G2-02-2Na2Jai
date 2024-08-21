@@ -1,6 +1,9 @@
-ส่งงานสัมภาษณ์กันเอง
+# Error 5022
+## ***INTERVIEW MY FRIENDS*** :fire:
 
-<img src="image-1.jpg" alt="" width = 500px>
+<p align = "center">
+  <img src="image-1.jpg" alt="" width = 500px>
+</p>
 
 Nickname: ร็อค (Rock) <br>
 Name: ณพัทร อาดำ (Napat Adam) <br>
@@ -22,7 +25,7 @@ Frusration: คิดมากในสิ่งที่ตัวเองท�
 
 IG : [napatadam](https://www.instagram.com/napatadam?igsh=MWVwdnY2Z3hpdHo3bQ==)
 
-interview by ธนกฤต แจ็นด์
+`interview by ธนกฤต แจ็นด์`
 
 
 # Intruducing OAT-Kung ✨
