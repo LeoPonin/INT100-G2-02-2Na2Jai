@@ -1,5 +1,6 @@
 # Error 5022
-## ***INTERVIEW MY FRIENDS*** :fire:
+***INTERVIEW MY FRIENDS*** :fire:
+<hr>
 
 <p align = "center">
   <img src="image-1.jpg" alt="" width = 500px>
@@ -25,7 +26,10 @@ Frusration: คิดมากในสิ่งที่ตัวเองท�
 
 IG : [napatadam](https://www.instagram.com/napatadam?igsh=MWVwdnY2Z3hpdHo3bQ==)
 
+<sup> Motion: There’re only 2 times that I want to be with you. Now and forever </sup>
+
 `interview by ธนกฤต แจ็นด์`
+<hr>
 
 
 # Intruducing OAT-Kung ✨
