@@ -20,6 +20,10 @@ Behavior: แคร์คำพูดผู้อื่น ชอบช่วย
 
 Frusration: คิดมากในสิ่งที่ตัวเองทำในแต่ละวันมากเกินไป
 
+IG : [napatadam](https://www.instagram.com/napatadam?igsh=MWVwdnY2Z3hpdHo3bQ==)
+
+interview by ธนกฤต แจ็นด์
+
 
 # Intruducing OAT-Kung ✨
 _by LeoPonin (Piriya Kiattikul)_
@@ -71,6 +75,32 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 <img src="peak.jpg" width= 500 px>
 
 
+สัมภาษณ์โดย ณพัทร อาดำ <br>
+
+ชื่อเล่น แม็ค(Max) <br>
+ชื่อ-สกุล ธนกฤต​ แจ็นด์(Thanakrit Jand) <br>
+อายุ 18 ปี <br>
+อาชีพ นักศึกษา มจธ. <br>
+สถานะ โสด <br>
+คณะ เทคโนโลยีสารสนเทศ <br>
+สาขา เทคโนโลยีสารสนเทศ <br>
+
+บุคลิกภาพ: เป้นคนไปเรื่อย​ ถ้ารู้จักก้จะชวนคุยตลอด​ และเป้นคนที่เฮฮาสุด
+
+แรงจูงใจ: ครอบครัวและเป้าหมายในอนาคต
+
+เป้าหมาย: ต้องการเรียนให้จบและเรียนต่อต่างประเทศให้ได้
+
+นิสัย: กวนๆฮาๆ​ เวลาเพื่อนมีปัญหาก้รับฟังเสมอ
+
+สิ่งที่ทำให้หงุดหงิด: ไม่ชอบคนที่ไม่พูดตรงๆ​ทำให้คิดมาก​
+
+[thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
+
+<img src = "imgmax.jpg" width = 500px >
+
+
+
 สัมภาษณ์โดย oat <br>
 ชื่อเล่น มีมี่ (Memie) <br>
 ชื่อ-สกุล พิริยา เกียรติกุล (Piriya Kiattikul) <br>
@@ -89,6 +119,10 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 นิสัย: ใจเย็น ขี้ลืม ใส่ใจกับคำพูดคนอื่นมากๆ <br>
 
 สิ่งที่ทำให้หงุดหงิด: เวลาพูดอะไรออกไปแล้วบางทีชอบกลับมานั่งคิดว่าคนอื่นจะคิดยังไงทั้งๆที่มันไม่มีอะไรให้กังวลเลย <br>
+
+
+Motto: Don't wait until it's too late. <br>
+
 [instagram](https://www.instagram.com/livuniverse?igsh=cHNjMHBpZmFuNjF5) <br>
 <img src = "image.jpg" width = 500px >
 
