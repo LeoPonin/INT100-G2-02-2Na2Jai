@@ -117,6 +117,8 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 นิสัย: ใจเย็น ขี้ลืม ใส่ใจกับคำพูดคนอื่นมากๆ <br>
 
 สิ่งที่ทำให้หงุดหงิด: เวลาพูดอะไรออกไปแล้วบางทีชอบกลับมานั่งคิดว่าคนอื่นจะคิดยังไงทั้งๆที่มันไม่มีอะไรให้กังวลเลย <br>
+
+Motto: Don't wait until it's too late. <br>
 [instagram](https://www.instagram.com/livuniverse?igsh=cHNjMHBpZmFuNjF5) <br>
 <img src = "image.jpg" width = 500px >
 
