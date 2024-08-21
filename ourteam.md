@@ -94,7 +94,7 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 สิ่งที่ทำให้หงุดหงิด: ไม่ชอบคนที่ไม่พูดตรงๆ​ทำให้คิดมาก​
 
-IG: [thxnakrxt.jx___] (https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M3hjbGxrMjg2)
+[thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
 
 <img src = "imgmax.jpg" width = 500px >
 
