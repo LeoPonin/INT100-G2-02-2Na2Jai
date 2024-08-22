@@ -133,3 +133,4 @@ Motto: Don't wait until it's too late. <br>
 [instagram](https://www.instagram.com/livuniverse?igsh=cHNjMHBpZmFuNjF5) <br>
 <img src = "image.jpg" width = 500px >
 
+สัมภาษณ์โดย ธนนันท์ ถิรคุณาพันธ์ 
