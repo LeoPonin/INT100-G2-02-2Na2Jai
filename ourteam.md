@@ -81,8 +81,7 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 [instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==) <br>
 <img src="peak.jpg" width= 500 px>
 
-
-สัมภาษณ์โดย ณพัทร อาดำ <br>
+<hr>
 
 ชื่อเล่น แม็ค(Max) <br>
 ชื่อ-สกุล ธนกฤต​ แจ็นด์(Thanakrit Jand) <br>
@@ -102,11 +101,16 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 สิ่งที่ทำให้หงุดหงิด: ไม่ชอบคนที่ไม่พูดตรงๆ​ทำให้คิดมาก​
 
-[thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
+Motto: It is never too late to be what you might have been.
+
+IG: [thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
 
 <img src = "imgmax.jpg" width = 500px >
 
 
+**`สัมภาษณ์โดย ณพัทร อาดำ`**
+
+<hr>
 
 สัมภาษณ์โดย oat <br>
 ชื่อเล่น มีมี่ (Memie) <br>
