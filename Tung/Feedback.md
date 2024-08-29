@@ -8,3 +8,5 @@
 **2.** การเปลี่ยนตัว Application เป็น Website เนื่องจาก Feature ของ app พวกเรามีน้อย มันจะทำให้เปลืองพื้นที่ในโทรศัพท์และไม่อาจดึงดูดให้คนมาใช้ได้  
 
 **3.** การเอาหน้า Log in ออก เพื่อความปลอดภัยของ user ที่รายงานไปนั่นเอง   
+
+[Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/1768c155323352214ef61a7aae67d7532a0c56f5/Tung/Define.md)
