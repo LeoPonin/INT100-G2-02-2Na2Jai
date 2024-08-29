@@ -43,6 +43,5 @@ __3.ไม่ตัดสินอะไรแต่ภายนอก__
 # ใช้เวลาในสวนธนนานแค่ไหน
 __2-3 ชั่วโมงในช่วงสุดสัปดาห์__
 
-[Journey](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/6ff2704c7a4a081a1b15c8e811ffd5adbce29144/Tung/empathize.md)
 
 
