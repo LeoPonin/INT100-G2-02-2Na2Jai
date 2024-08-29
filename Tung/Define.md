@@ -20,5 +20,5 @@ __คุณตั้งชอบมาวิ่งในช่วงเวลา
 # JOURNEY MAP
 
 <p align = "center">
-  <img src="journey.png" alt="" width = 500px>
+  <img src="/Tung/journey.png" alt="" width = 500px>
 </p>
