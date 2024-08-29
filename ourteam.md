@@ -3,7 +3,7 @@
 <hr>
 
 <p align = "center">
-  <img src="image-1.jpg" alt="" width = 500px>
+  <img src="/image/image-1.jpg" alt="" width = 500px>
 </p>
 
 Nickname: ร็อค (Rock) <br>
@@ -35,7 +35,9 @@ IG : [napatadam](https://www.instagram.com/napatadam?igsh=MWVwdnY2Z3hpdHo3bQ==)
 # Intruducing OAT-Kung ✨
 _by LeoPonin (Piriya Kiattikul)_
 
-![oat](aot.jpg)
+<p align = "center">
+  <img src="/image/aot.jpg" alt="" width = 500px>
+</p>
 
 Name : Peerawit Pratoomsuwan
 
@@ -79,7 +81,8 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 สิ่งที่ทำให้หงุดหงิด: ความคิดมากของตนเอง
 [instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==) <br>
-<img src="peak.jpg" width= 500 px>
+
+<img src="/image/peak.jpg" width= 500 px>
 
 <hr>
 
@@ -105,7 +108,7 @@ Motto: It is never too late to be what you might have been.
 
 IG: [thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
 
-<img src = "imgmax.jpg" width = 500px >
+<img src = "/image/imgmax.jpg" width = 500px >
 
 
 **`สัมภาษณ์โดย ณพัทร อาดำ`**
@@ -135,13 +138,13 @@ IG: [thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
 Motto: Don't wait until it's too late. <br>
 
 [instagram](https://www.instagram.com/livuniverse?igsh=cHNjMHBpZmFuNjF5) <br>
-<img src = "image.jpg" width = 500px >
+<img src = "/image/image.jpg" width = 500px >
 
 <hr>
 
 **`สัมภาษณ์โดย ธนนันท์ ถิรคุณาพันธ์`**
 
-<img src="kong.jpeg" alt="" width = 500px>
+<img src="/image/kong.jpeg" alt="" width = 500px>
 
 **ชื่อเล่น** ก้อง <br>
 **ชื่อ-สกุล** ธราเทพ ดวงปาโคตร <br>
