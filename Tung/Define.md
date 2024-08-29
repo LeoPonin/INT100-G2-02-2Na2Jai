@@ -20,5 +20,5 @@ __We met__
 # JOURNEY MAP
 
 <p align = "center">
-  <img src="image.png" alt="" width = 500px>
+  <img src="/Tung/journey.png" alt="" width = 500px>
 </p>
