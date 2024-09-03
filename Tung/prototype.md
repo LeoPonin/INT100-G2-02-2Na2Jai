@@ -1,8 +1,7 @@
 # Prototype
 
-$${\color{lightblue}เราออกแบบเป็นwebsiteเพื่อต้องการประหยัดstorageของผู้ใช้งาน \space โดยมี \space landing \space page \space เป็นดังนี้}$$
+${\color{lightblue}เราออกแบบเป็นwebsiteเพื่อต้องการประหยัดstorageของผู้ใช้งาน \space โดยมี \space landing \space page \space เป็นดังนี้}$
 
-เราออกแบบเป็นwebsiteเพื่อต้องการประหยัดstorageของผู้ใช้งาน โดยมี landing page เป็นดังนี้
 
 <p align = "center">
   <img src="/image/landing.png" alt="" width = 500px>
