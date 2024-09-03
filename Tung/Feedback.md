@@ -9,4 +9,4 @@
 
 **3.** การเอาหน้า Log in ออก เพื่อความปลอดภัยของ user ที่รายงานไปนั่นเอง   
 
-[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/a4e69bf2945cdd9ddfd5c71bef65b68ae2b2c744/Tung/prototype.md)
+[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/0771ad7baec8dda76e4e187f3b19889d331e317d/Tung/prototype.md)
