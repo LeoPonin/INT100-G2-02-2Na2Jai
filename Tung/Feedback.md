@@ -3,11 +3,7 @@
 
 $${\color{Lightgreen}จากการที่พวกเราไปนำผลงานไปนำเสนอมา \space พบว่ามี \space 3 \space ข้อหลักๆที่ควรแก้ไข}$$
 
-<style scoped>
-table {
-    font-size: 20px
-}
-</style>
+
 
 | I Like | I Wish |
 | -------- | ------- |
