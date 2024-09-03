@@ -12,4 +12,4 @@ $${\color{Lightgreen}จากการที่พวกเราไปนำ�
 | Presentation ลื่นไหล ไม่ติดขัด | การเอาหน้า Log in ออก เพื่อความปลอดภัยของ user ที่รายงานไปนั่นเอง |
 
 
-[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/a4e69bf2945cdd9ddfd5c71bef65b68ae2b2c744/Tung/prototype.md)
+[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/64a285fa97b04e760e9f09ec7d8a0e1bcb47e4cd/Tung/prototype.md)
