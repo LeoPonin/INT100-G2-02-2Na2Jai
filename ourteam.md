@@ -86,6 +86,8 @@ IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)
 
 <hr>
 
+**`สัมภาษณ์โดย ณพัทร อาดำ`**
+
 ชื่อเล่น แม็ค(Max) <br>
 ชื่อ-สกุล ธนกฤต​ แจ็นด์(Thanakrit Jand) <br>
 อายุ 18 ปี <br>
@@ -109,9 +111,6 @@ Motto: It is never too late to be what you might have been.
 IG: [thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
 
 <img src = "/image/imgmax.jpg" width = 500px >
-
-
-**`สัมภาษณ์โดย ณพัทร อาดำ`**
 
 <hr>
 
