@@ -1,2 +1,2 @@
 ##STORYBOARD
-<img src="/image/storyboard.jpg" alt="" width = 500px>
+<img src="/image/storyboard.jpeg" alt="" width = 500px>
