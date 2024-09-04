@@ -14,4 +14,3 @@ $${\color{Lightgreen}จากการที่พวกเราไปนำ�
 
 [To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/64a285fa97b04e760e9f09ec7d8a0e1bcb47e4cd/Tung/prototype.md)
 =======
-[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/0771ad7baec8dda76e4e187f3b19889d331e317d/Tung/prototype.md)
