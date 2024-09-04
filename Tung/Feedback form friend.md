@@ -1,7 +1,7 @@
 # Feedback From my Friend
 <hr>
 
-$${\color{Lightgreen}จากการที่พวกเราไปนำผลงานไปนำเสนอมา \space พบว่ามี \space 3 \space ข้อหลักที่น่าสนใจ}$$
+$${\color{yellow}จากการที่พวกเราไปนำผลงานไปนำเสนอมา \space พบว่ามี \space 3 \space ข้อหลักที่น่าสนใจ}$$
 
 
 
