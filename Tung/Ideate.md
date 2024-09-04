@@ -4,5 +4,5 @@
 **พัฒนาเว็ปไซต์ให้ผู้ใช้สวนธนบุรีรมภ์สามารถรายงานปัญหาที่เกิดขึ้นภายในสวนได้ ปัญหาจะถูกส่งไปที่พนักงานรักษาความปลอดภัย แม่บ้านหรือคนอื่นๆที่เกี่ยวข้องในการดูแลสวนธนบุรีรมภ์และคนที่เกี่ยวข้องจะสามารถไปแก้ปัญหานั้นได้ตามตำแหน่งที่เว็ปไซต์แสดง**  
 <img src = "/image/Website_01.png" width = 1000px >  
 
-[To Feedback From Friend](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/d1ba4dab6a6eb6ee15aa3b883a153a9383af6b28/Tung/Feedback.md)
+[To Feedback From Friend](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/47935031a60b258c312f1606a7ec677d2c408c7e/Tung/Feedback%20form%20friend.md)
 =======
