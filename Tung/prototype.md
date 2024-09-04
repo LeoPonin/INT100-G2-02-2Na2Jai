@@ -15,5 +15,5 @@ ${\color{lightblue}เราออกแบบเป็นwebsiteเพื่อ
   <img src="/image/land3.png"" alt="" width = 500px>
 </p>
 
-[To Testing](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/d1ba4dab6a6eb6ee15aa3b883a153a9383af6b28/Tung/Feedback.md)
+[To Testing](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/1155d7572c6b0408331ada933faa8b43d80e7402/Tung/Testing.md)
 =======
