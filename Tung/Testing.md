@@ -9,5 +9,5 @@ $${\color{Lightgreen}การจากที่เราได้นำตั�
 
 <img src=/image/storyboard.jpeg>
 
-[To Feedback From User](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/2b05d3b5562eb097756f6794fec3dba1dd1d0a5c/Tung/Feedback%20from%20user.md)
+[To Feedback From User](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Feedback%20from%20user.md)
 =======

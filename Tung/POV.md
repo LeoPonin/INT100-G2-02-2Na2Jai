@@ -9,5 +9,5 @@
 | **It would be game-changing to**    | สร้างช่องทางให้ผู็ใช้ที่พบปัญหาได้รายงานปัญหาแบบไม่ระบุตัวตน และให้ผู้ที่เกี่ยวข้องเข้ามาแก้ปัญหา|  
   
 
-[To Ideate](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/d1ba4dab6a6eb6ee15aa3b883a153a9383af6b28/Tung/Ideate.md)
+[To Ideate](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Ideate.md)
 =======
