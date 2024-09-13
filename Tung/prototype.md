@@ -16,5 +16,5 @@ userจะต้องทำการสมัครบัญชีและ log
   <img src="/image/land3.png"" alt="" width = 500px>
 </p>
 
-[To Testing](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/1155d7572c6b0408331ada933faa8b43d80e7402/Tung/Testing.md)
+[To Testing](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Testing.md)
 =======
