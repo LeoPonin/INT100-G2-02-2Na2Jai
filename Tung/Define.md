@@ -19,5 +19,5 @@ __**Feel** : รู้สึกสนุก ร่มเย็น แต่ไ�
   <img src="/image/journey.png" alt="" width = 500px>
 </p>
 
-[To POINT OF VIEW]([https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/15f97f5e976a2ec21558c6ddb16ea91ecd95e6ef/Tung/POV.md])
+[To POINT OF VIEW]([https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/15f97f5e976a2ec21558c6ddb16ea91ecd95e6ef/Tung/POV.md))
 =======
