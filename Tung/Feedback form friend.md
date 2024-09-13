@@ -12,5 +12,5 @@ $${\color{yellow}จากการที่พวกเราไปนำผล
 | Presentation ลื่นไหล ไม่ติดขัด | การเอาหน้า Log in ออก เพื่อความปลอดภัยของ user ที่รายงานไปนั่นเอง |
 
 
-[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/64a285fa97b04e760e9f09ec7d8a0e1bcb47e4cd/Tung/prototype.md)
+[To Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/prototype.md)
 =======
