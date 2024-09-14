@@ -1,5 +1,4 @@
-# POV STATEMENT
-
+# <h1 align = center> <code> POV (POINT OF VIEW) </code> :heartbeat: <h1>
 
 | POV | Answer |
 | -------- | ------- |
