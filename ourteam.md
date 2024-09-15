@@ -10,7 +10,7 @@
   <img src="/image/image-1.jpg" alt="" width = 500px>
 </p>
 
-> <h1>User peronas</h1> :information_desk_person:  
+> <h1>User peronas :information_desk_person:</h1>  
 
 >> - <code>Nickname</code> : ร็อค (Rock) :thumbsup: 
 >> - <code>Name</code>: ณพัทร อาดำ (Napat Adam)  :hand:
@@ -20,7 +20,7 @@
 >> - <code>Faculty</code>: เทคโนโลยีสารสนเทศ  :tada: 
 >> - <code>Section</code>: เทคโนโลยีสารสนเทศ  :confetti_ball: 
 
-> <h1>Feeling</h1> :smiley:  
+> <h1>Feeling :smiley: </h1>  
 
 > - ตั้งแค่ได้รู้จักกับร็อคมารู้สึกว่าร็อคเป็นคนที่ friendly แต่ออกแนวเงียบๆหน่อย เป็นคนช่วยเหลืองานเยอะ ขยัน ถึงแม้จะไม่มีความรู้ในเรื่องนั้นเแต่ร็อคก็ชอบหาความรู้ใหม่ๆอยู่ตลอด เพื่อพัฒนาตัวเองตลอดเวลา เป้าหมายของเพื่อนร็อคในตอนนี้คือ การเรียนให้จบและแบ่งเบาภาระพ่อแม่ :fire: :fire: :fire:
  
