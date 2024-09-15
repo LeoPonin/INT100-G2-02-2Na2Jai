@@ -11,15 +11,17 @@
 </p>
 
 > <h1>User peronas</h1> :information_desk_person:  
->> - :rock:     <code>Nickname</code> : ร็อค (Rock) :thumbsup: 
->> - :smile:    <code>Name</code>: ณพัทร อาดำ (Napat Adam)  :hand:
->> - :running:  <code>Age</code>: 18 ปี :punch: 
->> - :haircut:  <code>Job</code>: นักศึกษา มหาวิทยาลัยพระจอมเกล้าพระจอมเกล้าธนบุรี  :rooster:  
->> - :couple:   <code>relationship</code>: โสด  :zap: 
->> - :computer: <code>Faculty</code>: เทคโนโลยีสารสนเทศ  :tada: 
->> - :computer: <code>Section</code>: เทคโนโลยีสารสนเทศ  :confetti_ball: 
 
-> <h1>Feeling</h1> :smiley:
+>> - <code>Nickname</code> : ร็อค (Rock) :thumbsup: 
+>> - <code>Name</code>: ณพัทร อาดำ (Napat Adam)  :hand:
+>> - <code>Age</code>: 18 ปี :punch: 
+>> - <code>Job</code>: นักศึกษา มหาวิทยาลัยพระจอมเกล้าพระจอมเกล้าธนบุรี  :rooster:  
+>> - <code>relationship</code>: โสด  :zap: 
+>> - <code>Faculty</code>: เทคโนโลยีสารสนเทศ  :tada: 
+>> - <code>Section</code>: เทคโนโลยีสารสนเทศ  :confetti_ball: 
+
+> <h1>Feeling</h1> :smiley:  
+
 > - ตั้งแค่ได้รู้จักกับร็อคมารู้สึกว่าร็อคเป็นคนที่ friendly แต่ออกแนวเงียบๆหน่อย เป็นคนช่วยเหลืองานเยอะ ขยัน ถึงแม้จะไม่มีความรู้ในเรื่องนั้นเแต่ร็อคก็ชอบหาความรู้ใหม่ๆอยู่ตลอด เพื่อพัฒนาตัวเองตลอดเวลา เป้าหมายของเพื่อนร็อคในตอนนี้คือ การเรียนให้จบและแบ่งเบาภาระพ่อแม่ :fire: :fire: :fire:
  
 <h3 align="left">Connect with me:</h3>
