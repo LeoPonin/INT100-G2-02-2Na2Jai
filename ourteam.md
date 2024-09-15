@@ -10,16 +10,20 @@
   <img src="/image/image-1.jpg" alt="" width = 500px>
 </p>
 
-<code>Nickname</code> : ร็อค (Rock) :rock:  
-<code>Name</code>: ณพัทร อาดำ (Napat Adam)  
-<code>Age</code>: 18 ปี  
-<code>Job</code>: นักศึกษา มหาวิทยาลัยพระจอมเกล้าพระจอมเกล้าธนบุรี  
-<code>relationship</code>: โสด  
-<code>Faculty</code>: เทคโนโลยีสารสนเทศ  
-<code>Section</code>: เทคโนโลยีสารสนเทศ  
+> <h1>User peronas :information_desk_person:</h1>  
 
-> - ตั้งแค่ได้รู้จักกับร็อคมารู้สึกว่าร็อคเป็นคนที่ friendly แต่ออกแนวเงียบๆหน่อย เป็นคนช่วยเหลืองานเยอะ ขยัน ถึงแม้จะไม่มีความรู้ในเรื่องนั้นเแต่ร็อค็ชอบหาความรู้ใหม่ๆอยู่ตลอด เพื่อพัฒนาตัวเองตลอดเวลา เป้าหมายของเพื่อนร็อคในตอนนี้คือ การเรียนให้จบและแบ่งเบาภาระพ่อแม่
+>> - <code>Nickname</code> : ร็อค (Rock) :thumbsup: 
+>> - <code>Name</code>: ณพัทร อาดำ (Napat Adam)  :hand:
+>> - <code>Age</code>: 18 ปี :punch: 
+>> - <code>Job</code>: นักศึกษา มหาวิทยาลัยพระจอมเกล้าพระจอมเกล้าธนบุรี  :rooster:  
+>> - <code>relationship</code>: โสด  :zap: 
+>> - <code>Faculty</code>: เทคโนโลยีสารสนเทศ  :tada: 
+>> - <code>Section</code>: เทคโนโลยีสารสนเทศ  :confetti_ball: 
 
+> <h1>Feeling :smiley: </h1>  
+
+> - ตั้งแค่ได้รู้จักกับร็อคมารู้สึกว่าร็อคเป็นคนที่ friendly แต่ออกแนวเงียบๆหน่อย เป็นคนช่วยเหลืองานเยอะ ขยัน ถึงแม้จะไม่มีความรู้ในเรื่องนั้นเแต่ร็อคก็ชอบหาความรู้ใหม่ๆอยู่ตลอด เพื่อพัฒนาตัวเองตลอดเวลา เป้าหมายของเพื่อนร็อคในตอนนี้คือ การเรียนให้จบและแบ่งเบาภาระพ่อแม่ :fire: :fire: :fire:
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img src="image/instagram.png" align="center" alt="instagram" height="25" width="25">
