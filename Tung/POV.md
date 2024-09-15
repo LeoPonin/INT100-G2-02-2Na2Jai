@@ -1,4 +1,6 @@
-# <h1 align = center> <code> POV (POINT OF VIEW) </code> :heartbeat: <h1>
+# <h1 align = center> <code> POV (POINT OF VIEW) </code> :heartbeat: </h1>
+<h4 align = center color = "blue"> POV helps the <strong> design team maintain user-centered </strong> focus while <code> brainstorming </code> innovative solutions </h4>
+
 
 >| **We met** | **We were surprised to Notice** |
 >| -------- | ------- |
