@@ -60,9 +60,9 @@ _by LeoPonin (Piriya Kiattikul)_
   <img src="/image/aot.jpg" alt="" width = 500px>
 </p>
 
-Name : Peerawit Pratoomsuwan
+^^Name :^^ Peerawit Pratoomsuwan
 
-Nickname : Oat 
+^^Nickname :^^ Oat 
 
 โอ๊ตเป็นคนที่ไม่ค่อยสันทัดกับเรื่องวิชาการเท่าไหร่ทำให้เวลาต้องทำงานเกี่ยวกับเรื่องใหม่ๆจะต้องใช้เวลาแลัคอยปรึกษาเพื่อนร่วมทีม โอ้ตเป็นคนที่ดูร่าเริงเฮฮา energyเยอะ และติดตลกมากพอสมควร เป็นคนที่คอยสร้างสีสรรค์เล็กๆน้อยๆเวลาอยู่ใน sharing session เพื่อไม่ให้บรรยากาศตึงเครียดเกินไป ตอนนี้เป้าหมายหลักของโอ้ตคือการเรียนยังไงก็ได้ให้จบ :book: (ท้อแท้จัด:sweat_smile:) และโอ้ตเป็นคนที่ใส่ใจและมักคิดมากกับคำพูดของคนอื่น
 <br> *IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)*
