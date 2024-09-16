@@ -7,7 +7,7 @@
 <hr>
 
 > **MEMBER** :collision: :collision: :collision:
->- Let's Interduce My team :trollface: :trollface:
+>- Let's Interduce My team :trollface: :trollface:  
 >| **No**| **Name** | **Nickname** | **Email-University** |
 >|----|----|----|----|
 >| **1.** | Napat Adam | Rock | napat.adam@kmutt.ac.th |
