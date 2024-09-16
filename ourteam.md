@@ -53,7 +53,7 @@
 <hr>
 
 
-# Intruducing OAT-Kung ✨
+# Intruducing OAT-Kung :sparkles:
 _by LeoPonin (Piriya Kiattikul)_
 
 <p align = "center">
