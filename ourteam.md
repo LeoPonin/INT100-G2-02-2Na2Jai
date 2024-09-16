@@ -12,13 +12,13 @@
 
 > <h1>User peronas :information_desk_person:</h1>  
 
->> - <code>Nickname</code> : ร็อค (Rock) :thumbsup: 
->> - <code>Name</code>: ณพัทร อาดำ (Napat Adam)  :hand:
->> - <code>Age</code>: 18 ปี :punch: 
->> - <code>Job</code>: นักศึกษา มหาวิทยาลัยพระจอมเกล้าพระจอมเกล้าธนบุรี  :rooster:  
->> - <code>relationship</code>: โสด  :zap: 
->> - <code>Faculty</code>: เทคโนโลยีสารสนเทศ  :tada: 
->> - <code>Section</code>: เทคโนโลยีสารสนเทศ  :confetti_ball: 
+>> - <code>Nickname</code> : <strong>ร็อค</strong> <sub>(Rock)</sub> :thumbsup: 
+>> - <code>Name</code>: <strong>ณพัทร อาดำ</strong> <sub>(Napat Adam)</sub>  :hand:
+>> - <code>Age</code>: <strong>18 ปี</strong>:punch: 
+>> - <code>Job</code>: <strong>นักศึกษา</strong> <ins>มหาวิทยาลัยพระจอมเกล้าพระจอมเกล้าธนบุรี</ins>  :rooster:  
+>> - <code>relationship</code>: <strong>โสด</strong>  :zap: 
+>> - <code>Faculty</code>: <strong>เทคโนโลยีสารสนเทศ</strong>  :tada: 
+>> - <code>Section</code>: <strong>เทคโนโลยีสารสนเทศ</strong>  :confetti_ball: 
 
 > <h1>Feeling :smiley: </h1>  
 
