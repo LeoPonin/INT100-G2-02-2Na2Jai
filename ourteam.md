@@ -5,8 +5,9 @@
 # Error 5022  :goberserk: :goberserk:
 ***INTERVIEW MY TEAMs*** :fire:
 <hr>
-<p align = "center">
+
 > **MEMBER** :collision: :collision: :collision:
+>- Let's Interduce My team :trollface: :trollface:
 >| **No**| **Name** | **Nickname** | **Email-University** |
 >|----|----|----|----|
 >| **1.** | Napat Adam | Rock | napat.adam@kmutt.ac.th |
@@ -15,7 +16,6 @@
 >| **4.** | Thanakrit Jand | Max | thanakrit.jand@kmutt.ac.th |
 >| **5.** | Piriya Kiattikul | Memie | piriya.kiat@kmutt.ac.th |
 >| **6.** | Tharathep Duangpakhot | Kong | tharathep.duan@kmutt.ac.th |
-</p>
 
 <hr>
 
