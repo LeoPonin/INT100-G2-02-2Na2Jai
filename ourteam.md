@@ -72,16 +72,16 @@ _by LeoPonin (Piriya Kiattikul)_
 
 # :exclamation: สัมภาษณ์โดย ธราเทพ ดวงปาโคตร :exclamation: <br>
 
-<code>ชื่อเล่น</code> พีค <br>
-<code>ชื่อ-สกุล</code> ธนนันท์ ถิรคุณาพันธ์ (Thananan Tirakunapan) <br>
-<code>อายุ</code> 18 ปี <br>
-<code>สถานะ</code> โสด <br>
-<code>ศึกษาที่</code> มจธ.  <br>
-<code>คณะ</code> เทคโนโลยีสารสนเทศ <br>
-<code>สาขา</code> เทคโนโลยีสารสนเทศ  <br>
+> - <code>ชื่อเล่น</code> พีค <br>
+> - <code>ชื่อ-สกุล</code> ธนนันท์ ถิรคุณาพันธ์ (Thananan Tirakunapan) <br>
+> - <code>อายุ</code> 18 ปี <br>
+> - <code>สถานะ</code> โสด <br>
+> - <code>ศึกษาที่</code> มจธ.  <br>
+> - <code>คณะ</code> เทคโนโลยีสารสนเทศ <br>
+> - <code>สาขา</code> เทคโนโลยีสารสนเทศ  <br>
 
-> - จากที่ได้สัมภาษณ์พีค พีคเป็นคนที่มีความกังวลเกี่ยวกับตนเอง คิดมากเรื่องตนเอง
-> - และไม่ค่อยกล้าแสดงออก พูดน้อย และพูดไม่เก่ง <br>
+จากที่ได้สัมภาษณ์พีค พีคเป็นคนที่มีความกังวลเกี่ยวกับตนเอง คิดมากเรื่องตนเอง <br>
+และไม่ค่อยกล้าแสดงออก พูดน้อย และพูดไม่เก่ง <br>
 
 
 :star:[Follow Peak on Instagram](https://www.instagram.com/makato_kun?igsh=MWRqdzlmbHpqMHVtcQ==):star: <br>
