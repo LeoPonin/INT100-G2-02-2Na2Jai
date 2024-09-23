@@ -68,6 +68,8 @@ _by LeoPonin (Piriya Kiattikul)_
 <br> *IG : [prwglitxh_](https://www.instagram.com/prwglitxh_?hl=en)*
 <br><br><br><br>
 
+<hr>
+
 # :exclamation: สัมภาษณ์โดย ธราเทพ ดวงปาโคตร :exclamation: <br>
 
 <code>ชื่อเล่น</code> พีค <br>
