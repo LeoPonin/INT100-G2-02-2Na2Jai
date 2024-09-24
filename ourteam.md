@@ -9,14 +9,14 @@
 > **MEMBER** :collision: :collision: :collision:
 >- Let's Interduce My team :trollface: :trollface:  
 
->| **No**| **Name** | **Nickname** | **Email-University** |
->|----|----|----|----|
->| **1.** | Napat Adam | Rock | napat.adam@kmutt.ac.th |
->| **2.** | Peerawit Pratoomsuwan | Oat | peerawat.prat@kmutt.ac.th |
->| **3.** | Thananan Tirakunapan | Peak | thananan.tira@kmutt.ac.th |
->| **4.** | Thanakrit Jand | Max | thanakrit.jand@kmutt.ac.th |
->| **5.** | Piriya Kiattikul | Memie | piriya.kiat@kmutt.ac.th |
->| **6.** | Tharathep Duangpakhot | Kong | tharathep.duan@kmutt.ac.th |
+>| **No**| **Name** | **Nickname** | **Email-University** | **GitHub-Name**  |
+>|----|----|----|----|---|
+>| **1.** | Napat Adam | Rock | napat.adam@kmutt.ac.th | Rockk-m  |  
+>| **2.** | Peerawit Pratoomsuwan | Oat | peerawat.prat@kmutt.ac.th | amarteurr   |  
+>| **3.** | Thananan Tirakunapan | Peak | thananan.tira@kmutt.ac.th | kongtharathep |   
+>| **4.** | Thanakrit Jand | Max | thanakrit.jand@kmutt.ac.th | ThanakritJand  |  
+>| **5.** | Piriya Kiattikul | Memie | piriya.kiat@kmutt.ac.th | LeoPonin  |  
+>| **6.** | Tharathep Duangpakhot | Kong | tharathep.duan@kmutt.ac.th | ThanananIT |  
 
 <hr>
 
