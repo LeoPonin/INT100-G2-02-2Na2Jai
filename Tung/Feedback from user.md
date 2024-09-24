@@ -15,7 +15,7 @@ $${\color{orange}หลังจากที่ได้ให้ \space user \s
 >| ชอบตัวการติดตามสถานะมากๆทำให้ตามได้ง่ายขึ้น | --- | ตัว Website สามารถใช้ได้จริงตอนไหน | อยากให้เพิ่ม feature website มากกว่านี้ |
 
 
-[MyTeams](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/ourteam.md)
+[LastFeedback](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Last%20feedback.md)
 ------
 
 

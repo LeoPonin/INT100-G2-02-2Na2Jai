@@ -1,4 +1,4 @@
-[empathize](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/c8bd58e89e30c340625163b9c2ea6b4e0ba3f6ce/Tung/empathize.md) | [Define And Journey Map](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Define.md) | [POINT OF VIEW](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/POV.md) | [Ideate](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Ideate.md) | [Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/prototype.md) | [Testing](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Testing.md) | [Feedback From User](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Feedback%20from%20user.md) | [MyTeams](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/ourteam.md)
+[Empathize](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/c8bd58e89e30c340625163b9c2ea6b4e0ba3f6ce/Tung/empathize.md) | [Define And Journey Map](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Define.md) | [POINT OF VIEW](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/POV.md) | [Ideate](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Ideate.md) | |[To Feedback From Friend](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Feedback%20form%20friend.md)|[Prototype](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/prototype.md) | [Testing](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Testing.md) | [Feedback From User](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Feedback%20from%20user.md) ||[LastFeedback](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Tung/Last%20feedback.md)| [MyTeams](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/ourteam.md)
 
 <hr>
 
@@ -25,5 +25,5 @@ $${\color{fuchsia}หลังจากที่พวกเราได้น�
 >| การเอาหน้า Log in ออก เพื่อความปลอดภัยของ user ที่รายงานไปนั่นเอง | ชอบตัวการติดตามสถานะมากๆทำให้ตามได้ง่ายขึ้น | หน้าตา Website ดูสะอาดเรียบร้อยมาก | 
 
 
-[To Myteam](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/c410f0e157f2cf01502f0a01403aa4fdbbed469d/ourteam.md) :family:
+[To Myteam](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/ourteam.md) :family:
 ------
