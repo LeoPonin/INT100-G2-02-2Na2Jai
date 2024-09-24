@@ -20,9 +20,9 @@
 
 <hr>
 
-<p align = "center">
-  <img src="/image/image-1.jpg" alt="" width = 500px>
-</p>
+<p align="center">
+  <img src="image/image-1.jpg" alt="Ing" width="300" height="300" align="center">
+</p> <br>
 
 > <h1>User peronas :information_desk_person:</h1>  
 
