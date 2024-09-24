@@ -21,7 +21,7 @@
 <hr>
 
 <p align = "center">
-  <img src="/image/image-1.jpg" alt="Rock" width = 500 height = 500 align = "center">
+  <img src="/image/image-1.jpg" alt="Rock" width = "500" border = "2 solid yellow">
 </p>
 
 > <h1>User peronas :information_desk_person:</h1>  
