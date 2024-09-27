@@ -6,7 +6,6 @@
 
 # <h1 align = center> <code> Define and Journey map </code> :floppy_disk: <h1>
  
-&emsp; $${\color{red}We \space choose \space \color{lightblue} Design%20Thinking%20Project \space \color{lightgreen}as \space an \space extreme \space user}$$
 
 <hr>
 
