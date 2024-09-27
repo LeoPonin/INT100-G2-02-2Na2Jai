@@ -90,7 +90,7 @@ _by LeoPonin (Piriya Kiattikul)_
 
 <hr>
 
-**`สัมภาษณ์โดย ณพัทร อาดำ`**
+:sunny: **`สัมภาษณ์โดย ณพัทร อาดำ`** :sunny:
 
 <code>ชื่อเล่น</code> แม็ค(Max) <br>
 <code>ชื่อ-สกุล</code> ธนกฤต​ แจ็นด์(Thanakrit Jand) <br>
