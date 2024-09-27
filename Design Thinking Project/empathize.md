@@ -54,6 +54,6 @@
 ## `ใช้เวลาในสวนธนนานแค่ไหน`⌚
 > 2-3 ชั่วโมงในช่วงสุดสัปดาห์
 
-[To Define And Journey Map](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Design%20Thinking%20Project/Define.md)
+[To Define And Journey Map](https://github.com/LeoPonin/INT100-G2-02-2Na2Jai/blob/main/Design%20Thinking%20Project/%20Define.md)
 ------
 
