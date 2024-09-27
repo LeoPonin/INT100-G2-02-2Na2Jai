@@ -90,7 +90,7 @@ _by LeoPonin (Piriya Kiattikul)_
 
 <hr>
 
-:sunny: **`สัมภาษณ์โดย ณพัทร อาดำ`** :sunny:
+:bangbang: **`สัมภาษณ์โดย ณพัทร อาดำ`** :bangbang:
 
 <code>ชื่อเล่น</code> แม็ค(Max) <br>
 <code>ชื่อ-สกุล</code> ธนกฤต​ แจ็นด์(Thanakrit Jand) <br>
@@ -100,9 +100,11 @@ _by LeoPonin (Piriya Kiattikul)_
 <code>คณะ</code> เทคโนโลยีสารสนเทศ <br>
 <code>สาขา</code> เทคโนโลยีสารสนเทศ <br>
 
+> ### <code>About him</code> :sunny:
+
 > แม็คเป็นคนที่ชวนคุยเก่งอัธยาศัยดี เฮฮา ทำให้คนอื่นรู้สึกสบายใจที่ได้คุยกับเขา ขยันและสามารถช่วยทำงานในทีมได้เยอะ และช่วยเหลือผู้อื่น ตอนที่เพื่อน(ผม)ติดขัดหรือมีปัญหากับงาน แม็คก็รับฟังและช่วยบอกวิธีทำ เป้าหมายของแม็คตอนนี้คือ ต้องการเรียนให้จบและเรียนต่อต่างประเทศให้ได้ และมีแรงจูงใจคือ ครอบครัวและเป้าหมายในอนาคต
 
-IG: [thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
+:arrow_right: IG: [thxnakrxt.jx___](https://www.instagram.com/thxnakrxt.jx___?igsh=N3M3M)
 
 <img src = "/image/imgmax.jpg" width = 500px >
 
